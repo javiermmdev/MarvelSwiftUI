@@ -6,9 +6,9 @@
 
 ## IMPORTANTE
 
-- **No es necesario incluir tu API, en el fichero SecureConstants.swift viene todo configurado para usar. **:
+- No es necesario incluir tu API, en el fichero SecureConstants.swift viene todo configurado para usar. 
 
-- **Por falta de tiempo no he podido hacer pruebas en el UI, aunque en clase dijimos que no se solia hacer he llegado al 50% justo sin ello...**:
+- Por falta de tiempo no he podido hacer pruebas en el UI, aunque en clase dijimos que no se solia hacer he llegado al 50% justo sin ello...
 
 ## Características
 
